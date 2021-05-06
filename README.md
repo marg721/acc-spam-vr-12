@@ -1,1 +1,0 @@
-# acc-spam-vr-12
