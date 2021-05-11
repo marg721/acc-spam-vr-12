@@ -1,12 +1,12 @@
 {
-  
   "main": "jano.js",
   "scripts": {
     "start": "node jano.js"
   },
   "dependencies": {
     "express": "^4.17.1",
-    "discord.js": "^11.5.1"
+    "discord.js": "^11.5.1",
+    "node-cmd": "^4.0.0"
   },
   "engines": {
     "node": "10.x"
