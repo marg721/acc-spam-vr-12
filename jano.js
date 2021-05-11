@@ -8931,7 +8931,7 @@ jano40.on("ready", () => {
   });/////////////
 
 /////////////////////////////
-jano.login("Nzc5NjAyNjI3Mjc2MDQ2MzQ2.X7i7sw.CQ05oLIB7Oqj2Jxwg0CH-w4lN_E");
+jano.login("");
 jano2.login("");
 jano3.login("");
 jano4.login("");
