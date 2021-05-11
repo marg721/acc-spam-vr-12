@@ -18,6 +18,18 @@ const listener = app.listen(process.env.PORT, () => {
 const Discord = require("discord.js");
 const cmd = require("node-cmd");
 /////////////////////////
+
+///////////////////////// ba 3 jor spam aka 
+
+///////////////////// yakam bnusa spam
+
+
+////////////////////////////// dwam bnusa just
+
+//////////////////////////////// seyam bnusa jano 1k yan jano 10k
+
+//////////////////// ba heway sud benen dle mnn 
+
 const jano = new Discord.Client();
 const jano2 = new Discord.Client();
 const jano3 = new Discord.Client();
