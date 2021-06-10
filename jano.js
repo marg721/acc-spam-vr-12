@@ -1539,7 +1539,7 @@ jano10.on("ready", () => {
 
 //////////////// tokn lera da bne 
 
-jano.login("NzgwNDI5OTQwODM0OTU5Mzgx.X7u-kQ.XMn2lxgJI_h4GECpV9E6YXOYhP4");
+jano.login("");
 jano2.login("");
 jano3.login("");
 jano4.login("");
